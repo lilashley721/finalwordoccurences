@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"WordOccurencFX","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"WordOccurencFX","l":"start(Stage)","u":"start(javafx.stage.Stage)"},{"p":"<Unnamed>","c":"WordOccurencFX","l":"WordOccurencFX()","u":"%3Cinit%3E()"}];updateSearchResults();
